@@ -48,6 +48,4 @@ http://localhost:5000
 
 ---
 
-## Author
-
 Prallabh Prasad Khatua

@@ -1,7 +1,7 @@
 // cms-admin/app.js
 const { useState, useEffect } = React;
 
-const API_URL = 'http://localhost:5000';
+const API_URL = "https://cms-backend-po4n.onrender.com";
 
 function Login({ onLogin }) {
   const [username, setUsername] = useState('admin');
